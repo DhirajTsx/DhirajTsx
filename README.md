@@ -2,7 +2,7 @@
 <h3 align="center" style="color: #FF7E5F;">Frontend Developer | MERN Stack Enthusiast | Java DSA Learner</h3>
 
 <p align="center">
-  <img width="50" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0FF7FF&center=true&vCenter=true&width=500&lines=Building+clean+%26+responsive+UIs;Teaching+Web+Development;Exploring+Full-Stack+Web+Tech" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0FF7FF&center=true&vCenter=true&width=500&lines=Building+clean+%26+responsive+UIs;Teaching+Web+Development;Exploring+Full-Stack+Web+Tech" alt="Typing Animation" />
 </p>
 
 ---
@@ -26,14 +26,14 @@ I am a passionate **Frontend Developer** with a strong focus on building **respo
 ## ![Tech Stack Icon](https://img.icons8.com/ios/50/FFFFFF/settings.png) **Tech Stack**
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="60" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="60" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="60" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" width="60" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" width="60" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" width="60" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" width="60" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" width="60" alt="Git"/>
 </p>
 
 ---
@@ -116,8 +116,8 @@ I believe in **continuous learning**. Whether it’s **coding**, solving **DSA p
 ### 🛠 Tools I Use
 
 <p align="center">
-  <img src="https://img.icons8.com/ios/50/FFFFFF/visual-studio-code.png" height="50" alt="VS Code"/>
-  <img src="https://img.icons8.com/ios/50/FFFFFF/git.png" height="50" alt="Git"/>
-  <img src="https://img.icons8.com/ios/50/FFFFFF/github.png" height="50" alt="GitHub"/>
-  <img src="https://img.icons8.com/ios/50/FFFFFF/terminal.png" height="50" alt="Terminal"/>
+  <img src="https://img.icons8.com/ios/50/FFFFFF/visual-studio-code.png" height="50" width="50" alt="VS Code"/>
+  <img src="https://img.icons8.com/ios/50/FFFFFF/git.png" height="50" width="50" alt="Git"/>
+  <img src="https://img.icons8.com/ios/50/FFFFFF/github.png" height="50" width="50" alt="GitHub"/>
+  <img src="https://img.icons8.com/ios/50/FFFFFF/terminal.png" height="50" width="50" alt="Terminal"/>
 </p>
