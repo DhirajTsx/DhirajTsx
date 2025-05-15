@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Dhiraj Bhawsar</h1>
-<h3 align="center">Frontend Developer | MERN Stack Enthusiast | Java DSA Learner</h3>
+<h1 align="center" style="background: linear-gradient(135deg, #FF7E5F, #FEB47B); color: white; padding: 20px; border-radius: 10px;">Hi, I'm Dhiraj Bhawsar</h1>
+<h3 align="center" style="color: #FF7E5F;">Frontend Developer | MERN Stack Enthusiast | Java DSA Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0FF7FF&center=true&vCenter=true&width=500&lines=Building+clean+%26+responsive+UIs;Teaching+Web+Development;Exploring+Full-Stack+Web+Tech" alt="Typing Animation" />
@@ -7,7 +7,7 @@
 
 ---
 
-## ![About Me Icon](https://img.icons8.com/ios/50/000000/about.png) **About Me**
+## ![About Me Icon](https://img.icons8.com/ios/50/FFFFFF/about.png) **About Me**
 
 I am a passionate **Frontend Developer** with a strong focus on building **responsive** and **interactive UIs**. I love to teach and guide others in **web development**, while continuously learning new technologies.
 
@@ -23,7 +23,7 @@ I am a passionate **Frontend Developer** with a strong focus on building **respo
 
 ---
 
-## ![Tech Stack Icon](https://img.icons8.com/ios/50/000000/settings.png) **Tech Stack**
+## ![Tech Stack Icon](https://img.icons8.com/ios/50/FFFFFF/settings.png) **Tech Stack**
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5"/>
@@ -38,19 +38,7 @@ I am a passionate **Frontend Developer** with a strong focus on building **respo
 
 ---
 
-## ![Snake Game Icon](https://img.icons8.com/ios/50/000000/snake.png) **Snake Game Demo**
-
-**Try my Snake Game:**
-
-You can play the Snake game below:
-
-[Play Snake Game](https://username.github.io/repository-name/)
-
-![Snake Game Thumbnail](https://example.com/snake-game-thumbnail.png)
-
----
-
-## ![GitHub Stats Icon](https://img.icons8.com/ios/50/000000/github.png) **GitHub Stats**
+## ![GitHub Stats Icon](https://img.icons8.com/ios/50/FFFFFF/github.png) **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dhirajbhavsar9900&show_icons=true&theme=tokyonight&hide_border=true" height="200" alt="GitHub Stats"/>
@@ -59,7 +47,7 @@ You can play the Snake game below:
 
 ---
 
-## ![GitHub Trophy Icon](https://img.icons8.com/ios/50/000000/trophy.png) **GitHub Achievements**
+## ![GitHub Trophy Icon](https://img.icons8.com/ios/50/FFFFFF/trophy.png) **GitHub Achievements**
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dhirajbhavsar9900&theme=tokyonight&no-frame=true&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" alt="GitHub Achievements"/>
@@ -67,7 +55,7 @@ You can play the Snake game below:
 
 ---
 
-## ![Projects Icon](https://img.icons8.com/ios/50/000000/folder-invoices.png) **Featured Projects**
+## ![Projects Icon](https://img.icons8.com/ios/50/FFFFFF/folder-invoices.png) **Featured Projects**
 
 Here are some of the exciting projects I have worked on:
 
@@ -88,7 +76,7 @@ Here are some of the exciting projects I have worked on:
 
 ---
 
-## ![Connect Icon](https://img.icons8.com/ios/50/000000/connected.png) **Connect With Me**
+## ![Connect Icon](https://img.icons8.com/ios/50/FFFFFF/connected.png) **Connect With Me**
 
 Feel free to connect with me through these platforms:
 
@@ -106,7 +94,7 @@ Feel free to connect with me through these platforms:
 
 ---
 
-## ![Learning Icon](https://img.icons8.com/ios/50/000000/education.png) **Currently Learning**
+## ![Learning Icon](https://img.icons8.com/ios/50/FFFFFF/education.png) **Currently Learning**
 
 I am constantly exploring new technologies to broaden my skill set:
 
@@ -117,7 +105,7 @@ I am constantly exploring new technologies to broaden my skill set:
 
 ---
 
-## ![Fun Fact Icon](https://img.icons8.com/ios/50/000000/brain.png) **Fun Fact**
+## ![Fun Fact Icon](https://img.icons8.com/ios/50/FFFFFF/brain.png) **Fun Fact**
 
 I believe in **continuous learning**. Whether it’s **coding**, solving **DSA problems**, or learning new stacks, every day is a new opportunity to improve. Let's **build** the future together! 🚀
 
@@ -128,8 +116,8 @@ I believe in **continuous learning**. Whether it’s **coding**, solving **DSA p
 ### 🛠 Tools I Use
 
 <p align="center">
-  <img src="https://img.icons8.com/ios/50/000000/visual-studio-code.png" height="50" alt="VS Code"/>
-  <img src="https://img.icons8.com/ios/50/000000/git.png" height="50" alt="Git"/>
-  <img src="https://img.icons8.com/ios/50/000000/github.png" height="50" alt="GitHub"/>
-  <img src="https://img.icons8.com/ios/50/000000/terminal.png" height="50" alt="Terminal"/>
+  <img src="https://img.icons8.com/ios/50/FFFFFF/visual-studio-code.png" height="50" alt="VS Code"/>
+  <img src="https://img.icons8.com/ios/50/FFFFFF/git.png" height="50" alt="Git"/>
+  <img src="https://img.icons8.com/ios/50/FFFFFF/github.png" height="50" alt="GitHub"/>
+  <img src="https://img.icons8.com/ios/50/FFFFFF/terminal.png" height="50" alt="Terminal"/>
 </p>
