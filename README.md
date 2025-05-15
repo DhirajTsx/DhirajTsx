@@ -112,12 +112,11 @@ I believe in **continuous learning**. Whether it’s **coding**, solving **DSA p
 > **"Code, build, teach, and grow — every day."** 😎
 
 ---
-
 ### 🛠 Tools I Use
 
 <p align="center">
   <img src="https://img.icons8.com/ios/50/FFFFFF/visual-studio-code.png" height="50" width="50" alt="VS Code"/>
   <img src="https://img.icons8.com/ios/50/FFFFFF/git.png" height="50" width="50" alt="Git"/>
   <img src="https://img.icons8.com/ios/50/FFFFFF/github.png" height="50" width="50" alt="GitHub"/>
-  <img src="https://img.icons8.com/ios/50/FFFFFF/terminal.png" height="50" width="50" alt="Terminal"/>
+  <img src="https://img.icons8.com/ios/50/FFFFFF/console.png" height="50" width="50" alt="Terminal"/>
 </p>
