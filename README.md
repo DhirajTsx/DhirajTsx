@@ -2,7 +2,7 @@
 <h3 align="center" style="color: #FF7E5F;">Frontend Developer | MERN Stack Enthusiast | Java DSA Learner</h3>
 
 <p align="center">
-  <img width="50px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0FF7FF&center=true&vCenter=true&width=500&lines=Building+clean+%26+responsive+UIs;Teaching+Web+Development;Exploring+Full-Stack+Web+Tech" alt="Typing Animation" />
+  <img width="50" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0FF7FF&center=true&vCenter=true&width=500&lines=Building+clean+%26+responsive+UIs;Teaching+Web+Development;Exploring+Full-Stack+Web+Tech" alt="Typing Animation" />
 </p>
 
 ---
