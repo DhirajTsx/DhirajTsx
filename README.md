@@ -115,8 +115,9 @@ I believe in **continuous learning**. Whether it’s **coding**, solving **DSA p
 ### 🛠 Tools I Use
 
 <p align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="50" width="50" alt="VSCode" />
-  <img src="https://img.icons8.com/ios/50/FFFFFF/git.png" height="50" width="50" alt="Git"/>
-  <img src="https://img.icons8.com/ios/50/FFFFFF/github.png" height="50" width="50" alt="GitHub"/>
-  <img src="https://img.icons8.com/ios/50/FFFFFF/console.png" height="50" width="50" alt="Terminal"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="50" width="50" alt="VSCode" style="filter: hue-rotate(200deg);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" alt="Git" style="filter: hue-rotate(200deg);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50" alt="GitHub" style="filter: hue-rotate(200deg);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terminal/terminal-original.svg" height="50" width="50" alt="Terminal" style="filter: hue-rotate(200deg);" />
 </p>
+
