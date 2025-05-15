@@ -1,61 +1,135 @@
-<h1 align="center">Hey 👋, I'm Dhiraj Bhawsar</h1>
-<h3 align="center">🚀 Frontend Developer & Mentor | 💻 MERN Stack | ⚡ Java DSA Learner</h3>
+<h1 align="center">Hi, I'm Dhiraj Bhawsar</h1>
+<h3 align="center">Frontend Developer | MERN Stack Enthusiast | Java DSA Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=I+build+responsive+UIs+%F0%9F%92%BB;Love+teaching+tech+%F0%9F%93%9D;Always+learning+new+stacks+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0FF7FF&center=true&vCenter=true&width=500&lines=Building+clean+%26+responsive+UIs;Teaching+Web+Development;Exploring+Full-Stack+Web+Tech" alt="Typing Animation" />
 </p>
 
 ---
 
-### ✨ About Me
+## ![About Me Icon](https://img.icons8.com/ios/50/000000/about.png) **About Me**
 
-- 🔧 3 months experience as a **Frontend Developer & Mentor** at *iTech System*
-- 🌐 Developed **responsive websites** with components like **Login Page**, **Dashboard**, and **Interactive Forms**
-- 🧑‍🏫 Conducted training sessions on **HTML**, **CSS**, and **JavaScript**
-- 💡 Currently exploring **React.js**, **Node.js**, **MongoDB** and solving **DSA in Java**
-- 📫 **Reach me at:** [Dhirajbhavsar.official@gmail.com](mailto:Dhirajbhavsar.official@gmail.com)
-- 🌍 **Portfolio:** [dhirajbhawsar-portfolio.vercel.app](https://dhirajbhawsar-portfolio.vercel.app)
+I am a passionate **Frontend Developer** with a strong focus on building **responsive** and **interactive UIs**. I love to teach and guide others in **web development**, while continuously learning new technologies.
 
----
+- **3 months** of experience as a **Frontend Developer & Mentor** at *iTech System*.
+- Developed **responsive websites** with components such as **Login Pages**, **Dashboards**, and **Interactive Forms**.
+- Conducted hands-on **training sessions** and mentored students in **HTML**, **CSS**, **JavaScript**.
+- Exploring and expanding my skills with **React.js**, **Node.js**, and **MongoDB**.
+- Currently solving **Data Structures & Algorithms** challenges using **Java**.
 
-### 🚀 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,java,git" alt="Tech Stack" />
-</div>
+#### 📧 **Contact Me**:
+- **Email**: [Dhirajbhavsar.official@gmail.com](mailto:Dhirajbhavsar.official@gmail.com)
+- **Portfolio**: [dhirajbhawsar-portfolio.vercel.app](https://dhirajbhawsar-portfolio.vercel.app)
 
 ---
 
-### 📊 GitHub Stats
+## ![Tech Stack Icon](https://img.icons8.com/ios/50/000000/settings.png) **Tech Stack**
 
-<div align="center">
- ### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhirajbhavsar9900&show_icons=true&theme=tokyonight" height="150px"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhirajbhavsar9900&theme=tokyonight" height="150px"/>
-</div>
-
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git"/>
+</p>
 
 ---
 
-### 📫 Connect with Me
+## ![Snake Game Icon](https://img.icons8.com/ios/50/000000/snake.png) **Snake Game Demo**
+
+**Try my Snake Game:**
+
+You can play the Snake game below:
+
+[Play Snake Game](https://username.github.io/repository-name/)
+
+![Snake Game Thumbnail](https://example.com/snake-game-thumbnail.png)
+
+---
+
+## ![GitHub Stats Icon](https://img.icons8.com/ios/50/000000/github.png) **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhirajbhavsar9900&show_icons=true&theme=tokyonight&hide_border=true" height="200" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhirajbhavsar9900&theme=tokyonight&hide_border=true" height="200" alt="GitHub Streak"/>
+</p>
+
+---
+
+## ![GitHub Trophy Icon](https://img.icons8.com/ios/50/000000/trophy.png) **GitHub Achievements**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhirajbhavsar9900&theme=tokyonight&no-frame=true&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" alt="GitHub Achievements"/>
+</p>
+
+---
+
+## ![Projects Icon](https://img.icons8.com/ios/50/000000/folder-invoices.png) **Featured Projects**
+
+Here are some of the exciting projects I have worked on:
+
+### 1. **Responsive Login Page**
+   - A responsive login page built with **HTML**, **CSS**, and **JavaScript**.
+   - Features custom form validation and modern UI components.
+   - [Live Demo](https://your-link-to-live-demo.com)
+
+### 2. **MERN Stack Dashboard**
+   - A full-fledged **MERN Stack** project that displays a dashboard with real-time data.
+   - Technologies used: **MongoDB**, **Express.js**, **React.js**, and **Node.js**.
+   - [GitHub Repository](https://github.com/your-repository-link)
+
+### 3. **Interactive Forms**
+   - Built a set of dynamic forms that adjust based on user input.
+   - Responsive and cross-browser compatible.
+   - [Live Demo](https://your-link-to-live-demo.com)
+
+---
+
+## ![Connect Icon](https://img.icons8.com/ios/50/000000/connected.png) **Connect With Me**
+
+Feel free to connect with me through these platforms:
 
 <p align="center">
   <a href="mailto:Dhirajbhavsar.official@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://dhirajbhawsar-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <!-- Optional: Add LinkedIn or other links here -->
+  <a href="https://www.linkedin.com/in/dhirajbhawsar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </p>
 
 ---
 
-### 🧠 Fun Fact
+## ![Learning Icon](https://img.icons8.com/ios/50/000000/education.png) **Currently Learning**
 
-> 💬 *"I don't just code. I teach, I build, and I learn — every day!"* 😎
+I am constantly exploring new technologies to broaden my skill set:
 
+- **React.js** and its ecosystem
+- **Node.js** and **Express.js**
+- **MongoDB** and **Database Management**
+- Advanced **Java** concepts and **Data Structures** & **Algorithms**
+
+---
+
+## ![Fun Fact Icon](https://img.icons8.com/ios/50/000000/brain.png) **Fun Fact**
+
+I believe in **continuous learning**. Whether it’s **coding**, solving **DSA problems**, or learning new stacks, every day is a new opportunity to improve. Let's **build** the future together! 🚀
+
+> **"Code, build, teach, and grow — every day."** 😎
+
+---
+
+### 🛠 Tools I Use
+
+<p align="center">
+  <img src="https://img.icons8.com/ios/50/000000/visual-studio-code.png" height="50" alt="VS Code"/>
+  <img src="https://img.icons8.com/ios/50/000000/git.png" height="50" alt="Git"/>
+  <img src="https://img.icons8.com/ios/50/000000/github.png" height="50" alt="GitHub"/>
+  <img src="https://img.icons8.com/ios/50/000000/terminal.png" height="50" alt="Terminal"/>
+</p>
