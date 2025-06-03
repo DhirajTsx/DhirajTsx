@@ -119,3 +119,6 @@ I believe in **continuous learning**. Whether it’s **coding**, solving **DSA p
   <img src="https://img.icons8.com/ios/50/FFFFFF/github.png" height="50" width="50" alt="GitHub"/>
   <img src="https://img.icons8.com/ios/50/FFFFFF/console.png" height="50" width="50" alt="Terminal"/>
 </p>
+
+
+![snake gif](https://github.com/Dhirajbhavsar9900/Dhirajbhavsar9900/blob/output/github-contribution-grid-snake.gif)
