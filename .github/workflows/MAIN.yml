@@ -22,9 +22,21 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
+      - name: Add index.html to dist
+        run: |
+          echo '<!DOCTYPE html>
+          <html>
+          <head><title>GitHub Snake</title></head>
+          <body style="text-align:center;">
+            <h1>GitHub Snake Animation</h1>
+            <img src="github-contribution-grid-snake.svg" alt="Snake SVG" style="width:80%; max-width:800px;" />
+            <br/>
+            <img src="github-contribution-grid-snake.gif" alt="Snake GIF" style="width:80%; max-width:800px;" />
+          </body>
+          </html>' > dist/index.html
+
       - run: git status
 
-      # Push changes to master (if needed)
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
@@ -32,7 +44,6 @@ jobs:
           branch: master
           force: true
 
-      # Push snake files to 'output' branch for GitHub Pages
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
