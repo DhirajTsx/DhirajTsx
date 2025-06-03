@@ -121,4 +121,3 @@ I believe in **continuous learning**. Whether it’s **coding**, solving **DSA p
 </p>
 
 
-![snake gif](https://github.com/Dhirajbhavsar9900/Dhirajbhavsar9900/blob/output/github-contribution-grid-snake.gif)
