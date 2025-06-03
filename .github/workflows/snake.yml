@@ -11,6 +11,7 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout Repository
@@ -33,3 +34,4 @@ jobs:
           github_token: ${{ secrets.PAT_TOKEN }}
           publish_branch: output
           publish_dir: ./dist
+          commit_message: "Update snake animation [skip ci]"
