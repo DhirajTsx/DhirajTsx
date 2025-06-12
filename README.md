@@ -47,14 +47,6 @@ I am a passionate **Frontend Developer** with a strong focus on building **respo
 
 ---
 
-## ![GitHub Trophy Icon](https://img.icons8.com/ios/50/FFFFFF/trophy.png) **GitHub Achievements**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DhirajJSX&theme=tokyonight&no-frame=true&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" alt="GitHub Achievements"/>
-</p>
-
----
-
 ## ![Connect Icon](https://img.icons8.com/ios/50/FFFFFF/connected.png) **Connect With Me**
 
 Feel free to connect with me through these platforms:
