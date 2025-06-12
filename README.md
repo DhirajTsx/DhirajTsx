@@ -46,11 +46,6 @@ I am a passionate **Frontend Developer** with a strong focus on building **respo
 </p>
 
 ---
-
-## ![Connect Icon](https://img.icons8.com/ios/50/FFFFFF/connected.png) **Connect With Me**
-
-Feel free to connect with me through these platforms:
-
 <p align="center">
   <a href="mailto:Dhirajbhavsar.official@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
