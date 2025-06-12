@@ -50,29 +50,8 @@ I am a passionate **Frontend Developer** with a strong focus on building **respo
 ## ![GitHub Trophy Icon](https://img.icons8.com/ios/50/FFFFFF/trophy.png) **GitHub Achievements**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhirajbhavsar9900&theme=tokyonight&no-frame=true&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" alt="GitHub Achievements"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DhirajJSX&theme=tokyonight&no-frame=true&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" alt="GitHub Achievements"/>
 </p>
-
----
-
-## ![Projects Icon](https://img.icons8.com/ios/50/FFFFFF/folder-invoices.png) **Featured Projects**
-
-Here are some of the exciting projects I have worked on:
-
-### 1. **Responsive Login Page**
-   - A responsive login page built with **HTML**, **CSS**, and **JavaScript**.
-   - Features custom form validation and modern UI components.
-   - [Live Demo](https://your-link-to-live-demo.com)
-
-### 2. **MERN Stack Dashboard**
-   - A full-fledged **MERN Stack** project that displays a dashboard with real-time data.
-   - Technologies used: **MongoDB**, **Express.js**, **React.js**, and **Node.js**.
-   - [GitHub Repository](https://github.com/your-repository-link)
-
-### 3. **Interactive Forms**
-   - Built a set of dynamic forms that adjust based on user input.
-   - Responsive and cross-browser compatible.
-   - [Live Demo](https://your-link-to-live-demo.com)
 
 ---
 
