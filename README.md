@@ -41,8 +41,8 @@ I am a passionate **Frontend Developer** with a strong focus on building **respo
 ## ![GitHub Stats Icon](https://img.icons8.com/ios/50/FFFFFF/github.png) **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhirajbhavsar9900&show_icons=true&theme=tokyonight&hide_border=true" height="200" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhirajbhavsar9900&theme=tokyonight&hide_border=true" height="200" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DhirajJSX&show_icons=true&theme=tokyonight&hide_border=true" height="200" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DhirajJSX&theme=tokyonight&hide_border=true" height="200" alt="GitHub Streak"/>
 </p>
 
 ---
