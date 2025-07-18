@@ -2,7 +2,6 @@
   <img src="./dist/DHIRAJTHUMBNAIL.jpg" alt="Dhiraj Bhawsar Banner" style="border-radius: 10px; max-width: 100%; height: auto;" />
 </p>
 
-<h1 align="center" style="background: linear-gradient(135deg, #FF7E5F, #FEB47B); color: white; padding: 20px; border-radius: 10px;">Hi, I'm Dhiraj Bhawsar</h1>
 <h3 align="center" style="color: #FF7E5F;">Frontend Developer | MERN Stack Enthusiast | Java DSA Learner</h3>
 
 <p align="center">
