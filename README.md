@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="" alt="Dhiraj Bhawsar Banner" style="border-radius: 10px; max-width: 100%; height: auto;" />
+  <img src="/disk/DHIRAJTHUMBNAIL.jpg" alt="Dhiraj Bhawsar Banner" style="border-radius: 10px; max-width: 100%; height: auto;" />
 </p>
 
 
