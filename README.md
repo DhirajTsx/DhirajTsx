@@ -2,7 +2,7 @@
   <img 
     src="./dist/DHIRAJTHUMBNAIL.jpg" 
     alt="Dhiraj Bhawsar Banner"
-    style="border-radius: 12px; border: 2px solid #ccc; max-width: 100%; height: auto;" 
+    style="border-radius: 12px; border: 2px solid #ccc; max-width: 100%; height: 300px;" 
   />
 </p>
 
