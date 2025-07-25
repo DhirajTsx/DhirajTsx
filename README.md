@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="./dist/DHIRAJTHUMBNAIL.jpg" alt="Dhiraj Bhawsar Banner" style="border-radius: 10px; max-width: 100%; height: auto;" />
+  <img 
+    src="./dist/DHIRAJTHUMBNAIL.jpg" 
+    alt="Dhiraj Bhawsar Banner"
+    style="border-radius: 12px; border: 2px solid #ccc; max-width: 100%; height: auto;" 
+  />
 </p>
+
 
 <h3 align="center" style="color: #FF7E5F;">Frontend Developer | MERN Stack Enthusiast | Java DSA Learner</h3>
 
