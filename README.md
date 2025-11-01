@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./dist/DHirajbhavsar.jpg" alt="Dhiraj Bhawsar Banner" style="border-radius: 10px; max-width: 100%; height: auto;" />
+  <img src="./dist/DHirajBhavsar.jpg" alt="Dhiraj Bhawsar Banner" style="border-radius: 10px; max-width: 100%; height: auto;" />
 </p>
 <h3 align="center" style="color: #FF7E5F;">Frontend Developer | MERN Stack Enthusiast | Java DSA Learner</h3>
 
