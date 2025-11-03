@@ -28,7 +28,7 @@ I am a passionate **Frontend Developer** with a strong focus on building **respo
 ## ![Tech Stack Icon](https://img.icons8.com/ios/50/FFFFFF/settings.png) **Tech Stack**
 
 <p align="center">
-  <img src="./dist/vgvou6iutrayajogub36.png" alt="Tech Stack" style="border-radius: 10px; max-width: 100%; height: auto;" />
+  <img src="./dist/STACKS.png" alt="Tech Stack" style="border-radius: 10px; max-width: 100%; height: auto;" />
 </p>
 
 
