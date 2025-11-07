@@ -13,7 +13,7 @@
 
 I am a passionate **Frontend Developer** with a strong focus on building **responsive** and **interactive UIs**. I love to teach and guide others in **web development**, while continuously learning new technologies.
 
-- **3 months** of experience as a **Frontend Developer & Mentor** at *iTech System*.
+- **5 months** of experience as a **Frontend Developer & Mentor** at *iTech System*.
 - Developed **responsive websites** with components such as **Login Pages**, **Dashboards**, and **Interactive Forms**.
 - Conducted hands-on **training sessions** and mentored students in **HTML**, **CSS**, **JavaScript**.
 - Exploring and expanding my skills with **React.js**, **Node.js**, and **MongoDB**.
