@@ -1,91 +1,70 @@
-<p align="center">
-  <img src="./dist/or6cddep1dvgzy0kz4zm.avif" alt="Dhiraj Bhawsar Banner" style="border-radius: 10px; max-width: 100%; height: auto;" />
-</p>
-<h3 align="center" style="color: #FF7E5F;">Frontend Developer | MERN Stack Enthusiast | Java DSA Learner</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0FF7FF&center=true&vCenter=true&width=500&lines=Building+clean+%26+responsive+UIs;Teaching+Web+Development;Exploring+Full-Stack+Web+Tech" alt="Typing Animation" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF7E5F&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Enthusiast;Java+DSA+Learner;Mentor+%26+Educator" alt="Typing Animation" />
 
----
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0FF7FF&center=true&vCenter=true&width=500&lines=Building+Clean+%26+Responsive+UIs;Teaching+Web+Development;Exploring+Full-Stack+Web+Tech" alt="Typing Animation" />
+  </a>
 
-## ![About Me Icon](https://img.icons8.com/ios/50/FFFFFF/about.png) **About Me**
+  <br/>
 
-I am a passionate **Frontend Developer** with a strong focus on building **responsive** and **interactive UIs**. I love to teach and guide others in **web development**, while continuously learning new technologies.
-
-- **5 months** of experience as a **Frontend Developer & Mentor** at *iTech System*.
-- Developed **responsive websites** with components such as **Login Pages**, **Dashboards**, and **Interactive Forms**.
-- Conducted hands-on **training sessions** and mentored students in **HTML**, **CSS**, **JavaScript**.
-- Exploring and expanding my skills with **React.js**, **Node.js**, and **MongoDB**.
-- Currently solving **Data Structures & Algorithms** challenges using **Java**.
-
-#### 📧 **Contact Me**:
-- **Email**: [Dhirajbhavsar.official@gmail.com](mailto:Dhirajbhavsar.official@gmail.com)
-- **Portfolio**: [dhirajbhawsar-portfolio.vercel.app](https://dhirajbhawsar-portfolio.vercel.app)
-
----
-
-## ![Tech Stack Icon](https://img.icons8.com/ios/50/FFFFFF/settings.png) **Tech Stack**
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="60" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="60" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="60" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" width="60" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" width="60" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" width="60" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" width="60" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" width="60" alt="Git"/>
-</p>
-
----
-
-## ![GitHub Stats Icon](https://img.icons8.com/ios/50/FFFFFF/github.png) **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhirajTsx&show_icons=true&theme=tokyonight&hide_border=true" height="200" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DhirajJSX&theme=tokyonight&hide_border=true" height="200" alt="GitHub Streak"/>
-</p>
-
----
-<p align="center">
   <a href="mailto:Dhirajbhavsar.official@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://dhirajbhawsar-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/dhirajbhawsar/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</p>
+  <a href="https://dhirajbhawsar-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+
+</div>
 
 ---
 
-## ![Learning Icon](https://img.icons8.com/ios/50/FFFFFF/education.png) **Currently Learning**
+### &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp; About Me
 
-I am constantly exploring new technologies to broaden my skill set:
+I am a passionate **Frontend Developer** with a strong focus on building **responsive** and **interactive UIs**. I love to teach and guide others in **web development**, while continuously learning new technologies.
 
-- **React.js** and its ecosystem
-- **Node.js** and **Express.js**
-- **MongoDB** and **Database Management**
-- Advanced **Java** concepts and **Data Structures** & **Algorithms**
+- 🔭 **Experience:** 5+ months as a **Frontend Developer & Mentor** at *iTech System*.
+- 💻 **Work:** Developed responsive websites, **Login Pages**, **Dashboards**, and **Interactive Forms**.
+- 🤝 **Mentorship:** Conducted hands-on training sessions in **HTML, CSS, JavaScript**.
+- 🌱 **Learning:** Currently exploring **React.js**, **Node.js**, **MongoDB**, and **DSA in Java**.
+
+---
+
+### &nbsp; 🛠 &nbsp; Tech Stack
+
+<div align="center">
+
+| **Frontend** | **Backend** | **Languages & Tools** |
+| :---: | :---: | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="Mongo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/> |
+
+</div>
 
 ---
 
-## ![Fun Fact Icon](https://img.icons8.com/ios/50/FFFFFF/brain.png) **Fun Fact**
+### &nbsp; 📊 &nbsp; GitHub Stats
 
-I believe in **continuous learning**. Whether it’s **coding**, solving **DSA problems**, or learning new stacks, every day is a new opportunity to improve. Let's **build** the future together! 🚀
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhirajTsx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DhirajTsx&theme=tokyonight&hide_border=true&background=00000000" height="180" alt="GitHub Streak" />
+</div>
 
-> **"Code, build, teach, and grow — every day."** 😎
+<div align="center">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhirajTsx&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="Top Languages" />
+</div>
 
 ---
-### 🛠 Tools I Use
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="50" width="50" alt="VSCode" style="filter: hue-rotate(200deg);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" alt="Git" style="filter: hue-rotate(200deg);" />
-  <img src="https://img.icons8.com/ios/50/FFFFFF/github.png" height="50" width="50" alt="GitHub"/>
-  <img src="https://img.icons8.com/ios/50/FFFFFF/console.png" height="50" width="50" alt="Terminal"/>
-</p>
 
+### &nbsp; ⚡ &nbsp; Fun Fact
 
+> **"Code, build, teach, and grow — every day."** >
+> I believe in continuous learning. Whether it’s coding, solving **DSA problems** in Java, or mentoring students, every day is a new opportunity to improve.
+
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=DhirajTsx&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
