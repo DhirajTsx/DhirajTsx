@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF7E5F&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Enthusiast;Java+DSA+Learner;Mentor+%26+Educator" alt="Typing Animation" />
 
