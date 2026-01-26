@@ -45,7 +45,7 @@ I am a passionate **Frontend Developer** with a strong focus on building **respo
 
 ---
 
-### &nbsp; 📊 &nbsp; GitHub Stats
+### &nbsp;  📊 &nbsp; GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DhirajTsx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="GitHub Stats" />
