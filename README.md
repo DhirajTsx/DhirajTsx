@@ -1,70 +1,213 @@
- <div align="center">
+<div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF7E5F&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Enthusiast;Java+DSA+Learner;Mentor+%26+Educator" alt="Typing Animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=260&section=header&text=Dhiraj%20Bhawsar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Next.js%20Developer%20•%20MERN%20Stack&descAlignY=58" width="100%" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0FF7FF&center=true&vCenter=true&width=500&lines=Building+Clean+%26+Responsive+UIs;Teaching+Web+Development;Exploring+Full-Stack+Web+Tech" alt="Typing Animation" />
-  </a>
+</div>
 
-  <br/>
+<h1 align="center">Hi 👋, I'm Dhiraj Bhawsar</h1>
 
-  <a href="mailto:Dhirajbhavsar.official@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dhirajbhawsar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://dhirajbhawsar-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
-  </a>
+<h3 align="center">
+Full Stack Developer from India 🇮🇳
+</h3>
+
+<p align="center">
+I build scalable, modern, high-performance web applications using Next.js, React.js, TypeScript, Node.js, and modern backend architectures.
+</p>
+
+---
+
+<div align="center">
+
+<a href="https://dhirajbhawsar.in">
+<img src="https://img.shields.io/badge/🌐_Portfolio-0A0A0A?style=for-the-badge&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/bhawsar-dhiraj">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hello@dhirajbhawsar.in">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/dhirajTsx">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-### &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp; About Me
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNhcG1wOXQ0aWF4aG9qNWZrNnM0M2hhYWx2M2dzcDl5MDFydzQzbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif"/>
 
-I am a passionate **Frontend Developer** with a strong focus on building **responsive** and **interactive UIs**. I love to teach and guide others in **web development**, while continuously learning new technologies.
+# 🚀 About Me
 
-- 🔭 **Experience:** 5+ months as a **Frontend Developer & Mentor** at *iTech System*.
-- 💻 **Work:** Developed responsive websites, **Login Pages**, **Dashboards**, and **Interactive Forms**.
-- 🤝 **Mentorship:** Conducted hands-on training sessions in **HTML, CSS, JavaScript**.
-- 🌱 **Learning:** Currently exploring **React.js**, **Node.js**, **MongoDB**, and **DSA in Java**.
+- 💻 Full Stack Developer focused on scalable & production-ready applications
+- ⚡ Specialized in **Next.js, React.js, TypeScript & Node.js**
+- 🎯 Passionate about UI/UX, animations & modern frontend engineering
+- 🌱 Currently learning **DevOps & System Design**
+- 🎓 Pursuing **MCA in Software Engineering**
+- 🔥 Love building modern web experiences with performance optimization
+- 🧠 Solved **300+ DSA Problems**
+
+<br clear="both"/>
 
 ---
 
-### &nbsp; 🛠 &nbsp; Tech Stack
+# ⚒️ Tech Stack
 
 <div align="center">
 
-| **Frontend** | **Backend** | **Languages & Tools** |
-| :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="Mongo"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/> |
+## 🚀 Frontend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,html,css"/>
+
+---
+
+## ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase"/>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,linux,vscode"/>
+
+---
+
+## 🎨 UI & Animation
+
+<img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge"/>
 
 </div>
 
 ---
 
-### &nbsp;  📊 &nbsp; GitHub Stats
+# 📌 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhirajTsx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DhirajTsx&theme=tokyonight&hide_border=true&background=00000000" height="180" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhirajTsx&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="Top Languages" />
+<table>
+<tr>
+<td width="50%">
+
+## 🌐 Portfolio & Blog Platform
+
+### ⚡ Tech Stack
+Next.js • TypeScript • PostgreSQL • Prisma • Auth.js
+
+### ✨ Features
+- SEO Optimized
+- SSR & SSG
+- MDX Blog System
+- Guestbook System
+- Sanity CMS
+- Responsive UI
+
+🔗 **Live:**  
+<a href="https://dhirajbhawsar.in">dhirajbhawsar.in</a>
+
+</td>
+
+<td width="50%">
+
+## 📸 Instagram Clone
+
+### ⚡ Tech Stack
+React.js • Node.js • MongoDB • Redux Toolkit
+
+### ✨ Features
+- JWT Authentication
+- Like & Comment System
+- Follow/Unfollow
+- REST APIs
+- Responsive UI
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-### &nbsp; ⚡ &nbsp; Fun Fact
-
-> **"Code, build, teach, and grow — every day."** >
-> I believe in continuous learning. Whether it’s coding, solving **DSA problems** in Java, or mentoring students, every day is a new opportunity to improve.
+# 📊 GitHub Analytics
 
 <div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=DhirajTsx&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhirajTsx&show_icons=true&theme=tokyonight&border_radius=15"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajTsx&layout=compact&theme=tokyonight&border_radius=15"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajTsx&theme=tokyonight&border_radius=15"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+✨ Built scalable full-stack projects using MERN & Next.js ecosystem
+
+✨ Experience with production-ready frontend architecture
+
+✨ Strong understanding of authentication systems & REST APIs
+
+✨ Completed Full Stack Development Bootcamp at Geekster
+
+✨ Built responsive and accessible applications with performance optimization
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhirajTsx&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:hello@dhirajbhawsar.in">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/bhawsar-dhiraj">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/dhirajTsx">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://dhirajbhawsar.in">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote
+
+> "Building modern, scalable and impactful digital experiences."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:0F172A&height=120&section=footer"/>
+
 </div>
