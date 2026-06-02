@@ -41,47 +41,19 @@
 
 ---
 
-### 💻 Technical Skills
+### 💻 Things I code with
 
-#### 🛠️ Languages & Core
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,postgres,mysql,prisma,git,github,vercel,postman,linux,vscode,figma,html,css,java" />
 </p>
 
-#### ⚙️ Frameworks & Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind&theme=dark" />
-</p>
-
-#### 🗄️ Databases & Caching
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
-</p>
-
-#### 🧠 State Management & ORM
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=redux,prisma&theme=dark" />
-</p>
 <p align="left">
   <img src="https://img.shields.io/badge/Zustand-18181B?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Mongoose_ODM-880000?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
-
-#### 🎨 UI & Animation Libraries
-<p align="left">
   <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=react"/>
   <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=react"/>
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
-</p>
-
-#### 🛠️ Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,linux,vscode,figma&theme=dark" />
-</p>
-
-#### 🧩 Concepts & Integrations
-<p align="left">
   <img src="https://img.shields.io/badge/Sanity_CMS-F03E2F?style=flat-square&logo=sanity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zod-3068B2?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/MDX-1B1F24?style=flat-square&logo=markdown&logoColor=white"/>
