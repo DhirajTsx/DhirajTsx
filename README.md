@@ -46,3 +46,20 @@
 <p align="left">
   <img src="https://skills.syvixor.com/api/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,postgres,mysql,prisma,zustand,shadcnui,radixui,framer,gsap,git,github,postman,vercel,linux,vscode,figma,sanity,zod,markdown,authjs,jwt,cloudinary,docker,kubernetes,aws,nginx,githubactions&perline=12" />
 </p>
+
+---
+
+### 📊 Weekly development breakdown
+
+<!--START_SECTION:waka-->
+```text
+Total Time: 64 hrs 12 mins
+
+TypeScript   49 hrs 38 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀   77.32 %
+Python       6 hrs 10 mins   ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.61 %
+MDX          2 hrs 55 mins   ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.55 %
+Markdown     2 hrs 6 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.28 %
+Bash         1 hr 42 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.65 %
+YAML         1 hr 41 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.59 %
+```
+<!--END_SECTION:waka-->
