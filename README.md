@@ -20,17 +20,17 @@
 
 ---
 
-= Engineering products that *scale* & *stick* with time. =
+### Engineering products that *scale* & *stick* with time.
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="60%" valign="top">
+      <p>Results-driven Full Stack Developer with proven experience at Rablo.in, specializing in Next.js 14, React.js, TypeScript, and Node.js. Skilled in building scalable, SEO-optimized, and accessible web applications with robust backend integration. Adept at REST API development, authentication systems, database management, and end-to-end performance optimization.</p>
       <ul>
-        <li>⚡ Specialized in <b>Next.js, TypeScript, React & Node.js</b></li>
-        <li>🌱 Currently leveling up in <b>DevOps & System Design</b></li>
-        <li>🏆 Solved <b>300+ Data Structures & Algorithms (DSA)</b> problems</li>
+        <li>⚡ Specialized in <b>Next.js, React.js, TypeScript & Node.js</b></li>
+        <li>🎓 Pursuing <b>MCA in Software Engineering</b></li>
+        <li>🏆 Solved <b>300+ DSA Problems</b></li>
         <li>🧑‍💻 Explore my work at <a href="https://dhirajbhawsar.in">dhirajbhawsar.in</a></li>
-        <li>✉️ Open to full-time roles & freelance — <a href="mailto:hello@dhirajbhawsar.in">hello@dhirajbhawsar.in</a></li>
       </ul>
     </td>
     <td width="40%" align="right" valign="top">
@@ -41,17 +41,52 @@
 
 ---
 
-= 💻 Things I code with =
+### 💻 Technical Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,postgres,mysql,firebase,git,github,vercel,postman,linux,vscode,html,css,java&perline=11" />
-</p>
-
-> **UI, Animations & State Management:** `Shadcn UI` • `Radix UI` • `Framer Motion` • `GSAP` • `Zustand`
+| Category | Technologies | Icons |
+| --- | --- | --- |
+| **Languages & Core** | TypeScript, JavaScript, HTML5, CSS3, Java (DSA) | <img src="https://skillicons.dev/icons?i=ts,js,html,css,java&theme=dark" height="25"/> |
+| **Frameworks & Libraries** | Next.js 14, React.js, Node.js, Express.js, Tailwind CSS | <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind&theme=dark" height="25"/> |
+| **Databases & Caching** | PostgreSQL, MySQL, MongoDB | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" height="25"/> |
+| **State Management & ORM** | Zustand, Redux Toolkit, Prisma ORM, Mongoose ODM | <img src="https://skillicons.dev/icons?i=redux,prisma&theme=dark" height="25"/> `Zustand` • `Mongoose ODM` |
+| **UI & Animation Libraries** | Shadcn UI, Radix UI, Framer Motion, GSAP | `Shadcn UI` • `Radix UI` • `Framer Motion` • `GSAP` |
+| **Tools & Platforms** | Git, GitHub, Postman, Vercel, Ubuntu Linux, VS Code, Figma | <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,linux,vscode,figma&theme=dark" height="25"/> |
+| **Concepts & Integrations** | Sanity CMS, Zod, MDX, Auth.js, JWT, SSR, CSR, SSG, Cloudinary | `Sanity CMS` • `Zod` • `MDX` • `Auth.js` • `JWT` • `SSR/SSG` • `Cloudinary` |
 
 ---
 
-= 📊 Weekly development breakdown =
+### 💼 Professional Experience
+
+#### Frontend Developer Intern — **Rablo.in**
+*📅 Jan 2026 – May 2026 | Noida, Uttar Pradesh (Remote)*
+
+*   🚀 **Scalable Next.js Apps:** Engineered scalable, high-performance web applications using **Next.js 14 (App Router)**, **React.js**, and **TypeScript**, implementing mobile-first responsive designs.
+*   🎨 **Figma to Pixel-Perfect Code:** Translated Figma UI designs into production-ready components using **Tailwind CSS v4** and **CSS Modules**, ensuring design system adherence.
+*   🔐 **Secure Auth Systems:** Architected and implemented secure authentication systems using **Google OAuth 2.0** with **JWT-based session management** and role-based protected routing.
+*   📦 **Component-Driven Development:** Designed and maintained a reusable, modular component library, improving code reusability and scalability across the codebase.
+*   🔌 **RESTful API Integration:** Integrated and consumed RESTful APIs for dashboards and user profile management, implementing robust error handling and loading states.
+*   ⚡ **Core Web Vitals Optimization:** Optimized application performance through code splitting, lazy loading, memoization, and efficient state management using React Hooks and Context API.
+
+---
+
+### 🎓 Education
+
+*   🎓 **Master of Computer Applications (MCA)**
+    *   *Amity University Online* | Noida, Uttar Pradesh | Expected **2027**
+*   🎓 **Bachelor of Business Administration (BBA)**
+    *   *R. C. Patel Institute of Management Research and Development* | Shirpur, Maharashtra | **2021 – 2023**
+
+---
+
+### 🏆 Certifications & Achievements
+
+*   🏅 **Geekster Bootcamp:** Completed intensive training in Data Structures & Algorithms and Full Stack Web Development (MERN Stack + Java DSA).
+*   🏆 **DSA Problem Solver:** Solved **300+ DSA problems** on HackerRank and other platforms, strengthening algorithmic optimization.
+*   💡 **Hackathon Leadership:** Led a team in Geekathon, coordinating frontend tasks and delivering a working prototype within strict deadlines.
+
+---
+
+### 📊 GitHub Analytics
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -72,7 +107,7 @@
 
 <br/>
 
-= 📈 Contribution Activity =
+#### 📈 Contribution Activity
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhirajTsx&theme=tokyo-night&hide_border=true&radius=16"/>
 
 ---
