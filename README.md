@@ -43,75 +43,49 @@
 
 ### 💻 Technical Skills
 
-| Category | Technologies | Icons |
-| --- | --- | --- |
-| **Languages & Core** | TypeScript, JavaScript, HTML5, CSS3, Java (DSA) | <img src="https://skillicons.dev/icons?i=ts,js,html,css,java&theme=dark" height="25"/> |
-| **Frameworks & Libraries** | Next.js 14, React.js, Node.js, Express.js, Tailwind CSS | <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind&theme=dark" height="25"/> |
-| **Databases & Caching** | PostgreSQL, MySQL, MongoDB | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" height="25"/> |
-| **State Management & ORM** | Zustand, Redux Toolkit, Prisma ORM, Mongoose ODM | <img src="https://skillicons.dev/icons?i=redux,prisma&theme=dark" height="25"/> `Zustand` • `Mongoose ODM` |
-| **UI & Animation Libraries** | Shadcn UI, Radix UI, Framer Motion, GSAP | `Shadcn UI` • `Radix UI` • `Framer Motion` • `GSAP` |
-| **Tools & Platforms** | Git, GitHub, Postman, Vercel, Ubuntu Linux, VS Code, Figma | <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,linux,vscode,figma&theme=dark" height="25"/> |
-| **Concepts & Integrations** | Sanity CMS, Zod, MDX, Auth.js, JWT, SSR, CSR, SSG, Cloudinary | `Sanity CMS` • `Zod` • `MDX` • `Auth.js` • `JWT` • `SSR/SSG` • `Cloudinary` |
+#### 🛠️ Languages & Core
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,java&theme=dark" />
+</p>
 
----
+#### ⚙️ Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind&theme=dark" />
+</p>
 
-### 💼 Professional Experience
+#### 🗄️ Databases & Caching
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
+</p>
 
-#### Frontend Developer Intern — **Rablo.in**
-*📅 Jan 2026 – May 2026 | Noida, Uttar Pradesh (Remote)*
+#### 🧠 State Management & ORM
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=redux,prisma&theme=dark" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Zustand-18181B?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Mongoose_ODM-880000?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
 
-*   🚀 **Scalable Next.js Apps:** Engineered scalable, high-performance web applications using **Next.js 14 (App Router)**, **React.js**, and **TypeScript**, implementing mobile-first responsive designs.
-*   🎨 **Figma to Pixel-Perfect Code:** Translated Figma UI designs into production-ready components using **Tailwind CSS v4** and **CSS Modules**, ensuring design system adherence.
-*   🔐 **Secure Auth Systems:** Architected and implemented secure authentication systems using **Google OAuth 2.0** with **JWT-based session management** and role-based protected routing.
-*   📦 **Component-Driven Development:** Designed and maintained a reusable, modular component library, improving code reusability and scalability across the codebase.
-*   🔌 **RESTful API Integration:** Integrated and consumed RESTful APIs for dashboards and user profile management, implementing robust error handling and loading states.
-*   ⚡ **Core Web Vitals Optimization:** Optimized application performance through code splitting, lazy loading, memoization, and efficient state management using React Hooks and Context API.
+#### 🎨 UI & Animation Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
+</p>
 
----
+#### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,linux,vscode,figma&theme=dark" />
+</p>
 
-### 🎓 Education
-
-*   🎓 **Master of Computer Applications (MCA)**
-    *   *Amity University Online* | Noida, Uttar Pradesh | Expected **2027**
-*   🎓 **Bachelor of Business Administration (BBA)**
-    *   *R. C. Patel Institute of Management Research and Development* | Shirpur, Maharashtra | **2021 – 2023**
-
----
-
-### 🏆 Certifications & Achievements
-
-*   🏅 **Geekster Bootcamp:** Completed intensive training in Data Structures & Algorithms and Full Stack Web Development (MERN Stack + Java DSA).
-*   🏆 **DSA Problem Solver:** Solved **300+ DSA problems** on HackerRank and other platforms, strengthening algorithmic optimization.
-*   💡 **Hackathon Leadership:** Led a team in Geekathon, coordinating frontend tasks and delivering a working prototype within strict deadlines.
-
----
-
-### 📊 GitHub Analytics
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dhirajTsx&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18"/>
-    </td>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajTsx&layout=compact&theme=tokyonight&hide_border=true&border_radius=18"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <br/>
-      <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajTsx&theme=tokyonight&hide_border=true&border_radius=18"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-#### 📈 Contribution Activity
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhirajTsx&theme=tokyo-night&hide_border=true&radius=16"/>
-
----
-
-<div align="center">
-  <h3>*"Building scalable, modern, and impactful digital experiences with clean architecture and beautiful UI."*</h3>
-</div>
+#### 🧩 Concepts & Integrations
+<p align="left">
+  <img src="https://img.shields.io/badge/Sanity_CMS-F03E2F?style=flat-square&logo=sanity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zod-3068B2?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MDX-1B1F24?style=flat-square&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Auth.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+</p>
