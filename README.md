@@ -47,17 +47,4 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,postgres,mysql,prisma,git,github,vercel,postman,linux,vscode,figma,html,css,java" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Zustand-18181B?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Mongoose_ODM-880000?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sanity_CMS-F03E2F?style=flat-square&logo=sanity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zod-3068B2?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MDX-1B1F24?style=flat-square&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Auth.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
-</p>
+> **State, UI & Concepts:** `Zustand` • `Mongoose ODM` • `Shadcn UI` • `Radix UI` • `Framer Motion` • `GSAP` • `Sanity CMS` • `Zod` • `MDX` • `Auth.js` • `JWT` • `Cloudinary`
