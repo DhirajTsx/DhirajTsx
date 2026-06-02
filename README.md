@@ -47,38 +47,6 @@ I specialize in crafting high-performance user interfaces and robust server arch
 
 ---
 
-# 🏆 Professional Experience
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 Frontend Developer Intern — Rablo.in
-📅 **Jan 2026 – May 2026**
-
-- Developed scalable applications using **Next.js 14 App Router** and **Tailwind CSS v4**
-- Implemented secure **Google OAuth Authentication**
-- Integrated APIs with optimized state handling, lazy loading, and code splitting
-- Built modular and reusable component systems
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 Frontend Developer Intern — SvaraAI
-📅 **Aug 2025 – Dec 2025**
-
-- Contributed to building **AI-powered outbound and revenue automation workspaces**
-- Built high-fidelity dashboards and interactive client interfaces using **React, TypeScript & Tailwind CSS**
-- Optimized application state management for seamless real-time experiences
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
 # ⚡ Tech Arsenal
 
 <div align="center">
