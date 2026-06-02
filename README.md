@@ -1,127 +1,82 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:0F172A,50:1D4ED8,75:38BDF8,100:7DD3FC&text=Dhiraj%20Bhawsar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%20•%20%20Next.js%20Developer%20%20•%20%20MERN%20Stack%20Engineer&descSize=18&descAlignY=58"/>
+  <img width="100%" src="dist/thumbnail.png" alt="Dhiraj Bhawsar's Banner"/>
+</div>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Next.js+%2B+TypeScript+Developer;Building+Scalable+Web+Applications;Frontend+Engineer+%7C+Backend+Developer;Passionate+About+Modern+UI%2FUX" />
-
-<br/><br/>
-
-<a href="https://dhirajbhawsar.in">
-<img src="https://img.shields.io/badge/🌐_Portfolio-0F172A?style=for-the-badge&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/bhawsar-dhiraj">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/dhirajTsx">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:hello@dhirajbhawsar.in">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=dhirajTsx&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-### 🚀 Full Stack Developer focused on building scalable, modern, and production-ready applications.
-
-I specialize in crafting high-performance user interfaces and robust server architectures. With a strong foundation in Next.js, TypeScript, and modern styling systems, I strive to build applications that deliver clean code and smooth animations.
-
-- ⚡ Specialized in **Next.js, React.js, TypeScript & Node.js**
-- 🧠 Strong understanding of **Frontend Architecture & REST APIs**
-- 📱 Focus on **performance optimization, responsive design & web accessibility**
-- 🎓 Pursuing **MCA in Software Engineering**
-- 🏆 Solved **300+ DSA Problems**
-
-<br clear="both"/>
-
----
-
-# ⚡ Tech Arsenal
-
-<div align="center">
-
-### 🛠️ Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,nodejs,express,mongodb,postgres,mysql,firebase&theme=dark" />
-
-<br/><br/>
-
-### ⚙️ UI, Animations & Tools
-<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,linux,vscode&theme=dark" />
-
-<br/>
-
-`Shadcn UI` • `Radix UI` • `Framer Motion` • `GSAP` • `Zustand`
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=dhirajTsx&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18"/>
-</td>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajTsx&layout=compact&theme=tokyonight&hide_border=true&border_radius=18"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajTsx&theme=tokyonight&hide_border=true&border_radius=18"/>
-</td>
-</tr>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="middle">
+      <img src="https://komarev.com/ghpvc/?username=dhirajTsx&label=Profile%20Views&color=0ea5e9&style=flat-square"/>
+    </td>
+    <td align="right" valign="middle">
+      <a href="mailto:hello@dhirajbhawsar.in"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+      <a href="https://linkedin.com/in/bhawsar-dhiraj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+      <a href="https://github.com/dhirajTsx"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://dhirajbhawsar.in"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logoColor=white"/></a>
+    </td>
+  </tr>
 </table>
 
-### 📈 Contribution Activity
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhirajTsx&theme=tokyo-night&hide_border=true&radius=16"/>
+---
 
-</div>
+= Engineering products that *scale* & *stick* with time. =
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>⚡ Specialized in <b>Next.js, TypeScript, React & Node.js</b></li>
+        <li>🌱 Currently leveling up in <b>DevOps & System Design</b></li>
+        <li>🏆 Solved <b>300+ Data Structures & Algorithms (DSA)</b> problems</li>
+        <li>🧑‍💻 Explore my work at <a href="https://dhirajbhawsar.in">dhirajbhawsar.in</a></li>
+        <li>✉️ Open to full-time roles & freelance — <a href="mailto:hello@dhirajbhawsar.in">hello@dhirajbhawsar.in</a></li>
+      </ul>
+    </td>
+    <td width="40%" align="right" valign="top">
+      <img width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 🧠 Coding Profiles & Connect
+= 💻 Things I code with =
 
-<div align="center">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,postgres,mysql,firebase,git,github,vercel,postman,linux,vscode,html,css,java&perline=11" />
+</p>
 
-<a href="https://github.com/dhirajTsx">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://linkedin.com/in/bhawsar-dhiraj">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:hello@dhirajbhawsar.in">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://dhirajbhawsar.in">
-<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge"/>
-</a>
-
-</div>
+> **UI, Animations & State Management:** `Shadcn UI` • `Radix UI` • `Framer Motion` • `GSAP` • `Zustand`
 
 ---
 
-<div align="center">
+= 📊 Weekly development breakdown =
 
-# 💭 Developer Quote
-
-### *"Building scalable, modern, and impactful digital experiences with clean architecture and beautiful UI."*
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dhirajTsx&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18"/>
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajTsx&layout=compact&theme=tokyonight&hide_border=true&border_radius=18"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajTsx&theme=tokyonight&hide_border=true&border_radius=18"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:7DD3FC,25:38BDF8,50:2563EB,75:0F172A,100:020617"/>
+= 📈 Contribution Activity =
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhirajTsx&theme=tokyo-night&hide_border=true&radius=16"/>
 
+---
+
+<div align="center">
+  <h3>*"Building scalable, modern, and impactful digital experiences with clean architecture and beautiful UI."*</h3>
 </div>
