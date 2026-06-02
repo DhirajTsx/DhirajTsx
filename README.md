@@ -44,7 +44,5 @@
 ### 💻 Things I code with
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,postgres,mysql,prisma,git,github,vercel,postman,linux,vscode,figma,html,css,java" />
+  <img src="https://skills.syvixor.com/api/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,postgres,mysql,prisma,zustand,shadcnui,radixui,framer,gsap,git,github,postman,vercel,linux,vscode,figma,sanity,zod,markdown,authjs,jwt,cloudinary,docker,kubernetes,aws,nginx,githubactions&perline=12" />
 </p>
-
-> **State, UI & Concepts:** `Zustand` • `Mongoose ODM` • `Shadcn UI` • `Radix UI` • `Framer Motion` • `GSAP` • `Sanity CMS` • `Zod` • `MDX` • `Auth.js` • `JWT` • `Cloudinary`
