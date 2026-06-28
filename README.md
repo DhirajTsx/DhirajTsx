@@ -45,5 +45,3 @@
   <img src="https://skills.syvixor.com/api/icons?i=js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,postgres,mysql,prisma,zustand,shadcnui,radixui,framer,gsap,git,github,postman,vercel,linux,vscode,figma,sanity,zod,markdown,authjs,jwt,cloudinary,docker,kubernetes,aws,nginx,githubactions&perline=12" />
 </p>
 
----
-
